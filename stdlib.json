@@ -94,6 +94,6 @@
       }
     }
   },
-  "memory": 512,
+  "memory": 2048,
   "engine": "nodejs14.x"
 }
