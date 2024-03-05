@@ -1,0 +1,99 @@
+{
+  "name": "emadsjsssjjjjj/my-new-project",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/message/create/prefix/red2.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red2"
+      }
+    },
+    "functions/events/discord/message/create/prefix/red4.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red4"
+      }
+    },
+    "functions/events/discord/message/button/interaction2.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "omar_1"
+      }
+    },
+    "functions/events/discord/message/create/prefix/red5.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red5"
+      }
+    },
+    "functions/events/discord/message/button/interaction3.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "omar_2"
+      }
+    },
+    "functions/events/discord/message/button/interaction4.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "saud"
+      }
+    },
+    "functions/events/discord/message/create/prefix/red6.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red6"
+      }
+    },
+    "functions/events/discord/message/create/prefix/red7.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red7"
+      }
+    },
+    "functions/events/discord/message/button/interaction5.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "iphone"
+      }
+    },
+    "functions/events/discord/message/button/interaction.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "google_1"
+      }
+    },
+    "functions/events/discord/message/button/interaction0.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "google_2"
+      }
+    },
+    "functions/events/discord/message/create/prefix/red8.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red8"
+      }
+    },
+    "functions/events/discord/message/create/prefix/red9.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red9"
+      }
+    },
+    "functions/events/discord/message/button/interaction1.js": {
+      "name": "discord.message.button.interaction",
+      "subtype": {
+        "custom_id": "apple_1"
+      }
+    },
+    "functions/events/discord/message/create/prefix/red10.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!red10"
+      }
+    }
+  },
+  "memory": 512,
+  "engine": "nodejs14.x"
+}
